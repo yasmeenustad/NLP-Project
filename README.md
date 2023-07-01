@@ -31,4 +31,5 @@ Ham email refers to an email that is wanted by the recipient and is not consider
 1. Logistic Regression Model (98%)
 2. Decision Tree Classifier Model (95%)
 3. Random Forest Classifier Model (97%)
+
    
