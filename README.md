@@ -1,4 +1,4 @@
-# NLP-Project
+# NLP-powered Ham/Spam Message Detection:
 Utilize NLP techniques to create a robust model for distinguishing between spam and ham messages accurately.
 
 ### NLP:
@@ -8,3 +8,7 @@ NLP stands for Natural Language Processing, which is a part of Computer Science,
 ### Spam :
 
 Spam is any kind of unwanted, unsolicited digital communication that gets sent out in bulk. Often spam is sent via email, but it can also be distributed via text messages, phone calls, or social media.
+
+### Ham:
+
+Ham email refers to email that is wanted by the recipient and is not considered spam.
