@@ -32,4 +32,4 @@ Ham email refers to an email that is wanted by the recipient and is not consider
 2. Decision Tree Classifier Model (95%)
 3. Random Forest Classifier Model (97%)
 
-
+![1_CS-OYdiRLCBMBiOpEURy0g34444](https://github.com/yasmeenustad/NLP-Project/assets/112754746/bc85f32b-4d95-423d-a809-4145ded06e33)
