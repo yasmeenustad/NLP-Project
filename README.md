@@ -1,2 +1,2 @@
 # NLP-Project
-Model creation using NLP for whether the message is spam or ham.
+Utilize NLP techniques to create a robust model for distinguishing between spam and ham messages accurately.
