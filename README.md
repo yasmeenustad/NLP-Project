@@ -4,6 +4,10 @@ Utilize NLP techniques to create a robust model for distinguishing between spam 
 ### NLP:
 
 NLP stands for Natural Language Processing, which is a part of Computer Science, Human language, and Artificial Intelligence. It is the technology that is used by machines to understand, analyze, manipulate, and interpret human language.
+<div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/NLP-Project/assets/112754746/86798e87-6af9-4786-ada7-7c0df1ab59a9"  height="350" width="800"/>
+</div>
+
 
 ### Spam:
 
