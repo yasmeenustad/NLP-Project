@@ -19,13 +19,24 @@ Ham email refers to an email that is wanted by the recipient and is not consider
 1. Pandas
 2. Seaborn
 
-### Steps involved:
-1. Data Preprocessing:-Prepare the dataset for analysis by cleaning and organizing the data.
-2. Data Cleaning:- Remove irrelevant or noisy data, such as HTML tags, special characters, and punctuation marks.
-3. Stopword Removal:- Eliminate common words that do not contribute much to the meaning of the text (e.g., "the," "is," "and").
-4. Word Stemming:- Reduce words to their base or root form to remove variations (e.g., "running" to "run," "walked" to "walk").
-5. Lemmatization:- Transform words to their canonical form (lemma) to maintain the context and meaning of the words accurately.
-6. Count vectorization:- Transforming text documents into numerical representation based on word occurrence frequencies
+##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/057551de-877a-4a41-916c-d47e81053404"  width="48" height="48"> Objectives:
+- **Data Preprocessing:-**
+    - Prepare the dataset for analysis by cleaning and organizing the data.
+      
+- **Data Cleaning:-**
+    - Remove irrelevant or noisy data, such as HTML tags, special characters, and punctuation marks.
+      
+- **Stopword Removal:-**
+    - Eliminate common words that do not contribute much to the meaning of the text (e.g., "the," "is," "and").
+      
+- **Word Stemming:-**
+    - Reduce words to their base or root form to remove variations (e.g., "running" to "run," "walked" to "walk").
+      
+- **Lemmatization:-**
+    - Transform words to their canonical form (lemma) to maintain the context and meaning of the words accurately.
+      
+- **Count vectorization:-**
+    - Transforming text documents into numerical representation based on word occurrence frequencies
 
 ### Model Created with Accuracy:
 1. Logistic Regression Model (98%)
