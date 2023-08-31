@@ -15,11 +15,15 @@ Ham email refers to an email that is wanted by the recipient and is not consider
 
 ![1_DJO9qUEWADxCHifLRTVGug2](https://github.com/yasmeenustad/NLP-Project/assets/112754746/536d62ff-9d6d-45f8-bd9c-ae1a431fd8a5)
 
-### Used Python Libraries:
-1. Pandas
-2. Seaborn
+## Python Libraries Used:
+- **Pandas** simplifies data manipulation with versatile structures like DataFrames, essential for tasks from loading to preprocessing in data analysis.
+
+- **Seaborn, Matplotlib** visualization libraries empower users to create insightful plots, enhancing data exploration.
+
+- **Sklearn** provides a comprehensive toolkit for building and evaluating machine learning models.
 
 ##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/057551de-877a-4a41-916c-d47e81053404"  width="48" height="48"> Objectives:
+
 - **Data Preprocessing:-**
     - Prepare the dataset for analysis by cleaning and organizing the data.
       
@@ -38,7 +42,7 @@ Ham email refers to an email that is wanted by the recipient and is not consider
 - **Count vectorization:-**
     - Transforming text documents into numerical representation based on word occurrence frequencies
 
-### Model Created with Accuracy:
+### Models with Accuracy:
 1. Logistic Regression Model (98%)
 2. Decision Tree Classifier Model (95%)
 3. Random Forest Classifier Model (97%)
