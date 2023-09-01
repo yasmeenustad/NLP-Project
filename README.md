@@ -1,4 +1,4 @@
-# NLP-powered Ham/Spam Message Detection:
+# **:NLP-powered Ham/Spam Message Detection:**
 Using advanced methods in Natural Language Processing (NLP), created a strong model that can accurately tell apart spam and ham messages. The dataset has two main parts: one is "Target," which is marked as Ham (1) and Spam (0), and the other is the "Message" part of the text.
 
 ### NLP:
