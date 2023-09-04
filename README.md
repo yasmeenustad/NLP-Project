@@ -50,9 +50,19 @@ Aim of the project is to utilize advanced Natural Language Processing (NLP) tech
 
 ### Model Accuracy Achieved:
 1. Logistic Regression Model (98%)
-2. Decision Tree Classifier Model (95%)
-3. Random Forest Classifier Model (97%)
+<div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/NLP-Project/assets/112754746/4f91ca9d-040b-422a-ad49-9d1c843836dc"  height="350" width="800"/>
+</div>
+3. Decision Tree Classifier Model (95%)
+<div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/NLP-Project/assets/112754746/4f91ca9d-040b-422a-ad49-9d1c843836dc"  height="350" width="800"/>
+</div>
+4. Random Forest Classifier Model (97%)
+<div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/NLP-Project/assets/112754746/4f91ca9d-040b-422a-ad49-9d1c843836dc"  height="350" width="800"/>
+</div>
 
 <div id="header" align="center">
     <img src="https://github.com/yasmeenustad/NLP-Project/assets/112754746/4f91ca9d-040b-422a-ad49-9d1c843836dc"  height="350" width="800"/>
 </div>
+
