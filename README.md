@@ -47,22 +47,25 @@ Aim of the project is to utilize advanced Natural Language Processing (NLP) tech
       
 - **Count vectorization:-**
     - Transforming text documents into numerical representation based on word occurrence frequencies
+ 
+<div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/NLP-Project/assets/112754746/4f91ca9d-040b-422a-ad49-9d1c843836dc"  height="350" width="800"/>
+</div>
 
 ### Model Accuracy Achieved:
-1. Logistic Regression Model (98%)
+**1. Logistic Regression Model (98%)**
 <div id="header" align="center">
-    <img src="https://github.com/yasmeenustad/NLP-Project/assets/112754746/4f91ca9d-040b-422a-ad49-9d1c843836dc"  height="350" width="800"/>
-</div>
-3. Decision Tree Classifier Model (95%)
-<div id="header" align="center">
-    <img src="https://github.com/yasmeenustad/NLP-Project/assets/112754746/4f91ca9d-040b-422a-ad49-9d1c843836dc"  height="350" width="800"/>
-</div>
-4. Random Forest Classifier Model (97%)
-<div id="header" align="center">
-    <img src="https://github.com/yasmeenustad/NLP-Project/assets/112754746/4f91ca9d-040b-422a-ad49-9d1c843836dc"  height="350" width="800"/>
+    <img src="https://github.com/yasmeenustad/NLP-Project/assets/112754746/6fe3ef0a-e181-4a63-9684-22831a3efe1b"  height="400" width="500"/>
 </div>
 
+**3. Decision Tree Classifier Model (95%)**
 <div id="header" align="center">
-    <img src="https://github.com/yasmeenustad/NLP-Project/assets/112754746/4f91ca9d-040b-422a-ad49-9d1c843836dc"  height="350" width="800"/>
+    <img src="https://github.com/yasmeenustad/NLP-Project/assets/112754746/3ddeb83f-2499-4076-a138-1c2e749e085c"  height="400" width="500"/>
 </div>
+
+**4. Random Forest Classifier Model (97%)**
+<div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/NLP-Project/assets/112754746/ec985854-6eb4-4605-9967-c5cec64ccc31"  height="400" width="500"/>
+</div>
+
 
