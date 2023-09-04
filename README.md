@@ -47,7 +47,18 @@ Aim of the project is to utilize advanced Natural Language Processing (NLP) tech
       
 - **Count vectorization:-**
     - Transforming text documents into numerical representation based on word occurrence frequencies
- 
+
+## Exploring Model Diversity:
+- **Logistic Regression:**
+    - Logistic regression is a statistical model used for binary classification tasks. It predicts the probability that an input belongs to one of two possible classes. It's simple, interpretable, and widely used in 
+        various fields.
+
+- **Decision Tree Classifier:**
+    - A decision tree is a tree-like structure used for classification and regression tasks. It recursively splits data based on features to make decisions. It's intuitive, interpretable, and can handle both categorical         and numerical data.
+
+- **Random Forest Classifier:**
+    - Random Forest Classifier: A random forest classifier is an ensemble learning method that combines multiple decision trees to improve predictive accuracy and reduce overfitting. It's robust, handles complex data,           and is effective in various machine learning applications.
+      
 <div id="header" align="center">
     <img src="https://github.com/yasmeenustad/NLP-Project/assets/112754746/4f91ca9d-040b-422a-ad49-9d1c843836dc"  height="350" width="800"/>
 </div>
