@@ -79,4 +79,29 @@ Aim of the project is to utilize advanced Natural Language Processing (NLP) tech
     <img src="https://github.com/yasmeenustad/NLP-Project/assets/112754746/ec985854-6eb4-4605-9967-c5cec64ccc31"  height="400" width="500"/>
 </div>
 
+## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/603ad77e-2212-4b07-a75a-ffcabb0538f4" width="70" height="50"> Challenges:
+
+- **Data Quality and Noise Reduction:**
+    - Cleaning and organizing the data can be challenging, particularly when dealing with large datasets. Ensuring data quality by identifying and removing irrelevant or noisy data, such as HTML tags and special 
+      characters, requires careful inspection and sometimes complex text processing algorithms.
+
+- **Stopword Removal Accuracy:**
+    - While removing stopwords can improve the efficiency of text analysis, the challenge lies in determining which words to consider as stopwords for a specific analysis. Choosing an appropriate list of stopwords and 
+      avoiding the unintentional removal of contextually important words can be tricky.
+
+- **Word Stemming and Lemmatization Precision:**
+    - Word stemming and lemmatization are essential for text normalization, but they may not always provide accurate results. Deciding between stemming and lemmatization and ensuring that the transformed words maintain 
+      their intended meaning and context can be challenging, especially in languages with complex inflections and variations.
+
+## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2e256cec-1421-4c5f-9913-052a53dc470f" width="70" height="50"> Learnings:
+
+- **Data Preparation and Cleaning:**
+    - Effective NLP and ML projects start with thorough data preparation. Cleaning and preprocessing text data, handling missing values, and addressing imbalances are crucial steps to ensure data quality and model              performance.
+
+- **NLP Libraries and Tools:**
+    - Proficiency in popular NLP libraries like NLTK, spaCy, or TensorFlow for deep learning models is essential. Familiarity with tools like scikit-learn for ML pipelines is also valuable.
+
+- **Model Selection and Tuning:** 
+    - Careful selection of appropriate NLP and ML algorithms is fundamental. Learning how to choose the right model architecture and optimizing hyperparameters through techniques like grid search or random search can 
+      enhance model performance.
 
